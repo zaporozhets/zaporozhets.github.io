@@ -1,0 +1,26 @@
+title: Hardware and stuff
+email:
+description: >-
+  DIY projects
+baseurl: ""
+url: "http://io32.pro"
+twitter_username:
+github_username:  zaporozhets
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
