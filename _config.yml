@@ -1,7 +1,8 @@
 title: Hardware and stuff
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: io32.dev
+url: "https://io32.dev"
 github_username:  zaporozhets
 
 # Build settings
