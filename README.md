@@ -1,1 +1,0 @@
-Jekyll based web site.
